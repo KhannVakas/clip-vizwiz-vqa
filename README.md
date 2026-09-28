@@ -44,7 +44,9 @@ Question ─→ CLIP Text Encoder ─┘                     └─→ MLP ─�
 2. **Train two heads**: a 5228-way answer classifier + a binary answerability scorer
 3. **Inference**: single forward pass gives both the answer and a confidence score
 
+## 📸 Results Screenshots
 ![image] <img width="949" height="731" alt="image" src="https://github.com/user-attachments/assets/af59d28d-aa25-4f99-8bf4-6a07c3bb1f53" />
+
 
 
 ## 🙏 Acknowledgements
