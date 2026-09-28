@@ -45,7 +45,9 @@ Question ─→ CLIP Text Encoder ─┘                     └─→ MLP ─�
 3. **Inference**: single forward pass gives both the answer and a confidence score
 
 ## 📸 Results Screenshots
-![image] <img width="949" height="731" alt="image" src="https://github.com/user-attachments/assets/af59d28d-aa25-4f99-8bf4-6a07c3bb1f53" />
+<img width="949" height="731" alt="image" src="https://github.com/user-attachments/assets/af59d28d-aa25-4f99-8bf4-6a07c3bb1f53" />
+<img width="1028" height="736" alt="image" src="https://github.com/user-attachments/assets/e045c2db-9d15-4207-87c0-e6e9bb32621f" />
+
 
 
 
